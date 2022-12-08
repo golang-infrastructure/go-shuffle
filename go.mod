@@ -1,3 +1,3 @@
-module github.com/CC11001100/go-shuffle
+module github.com/golang-infrastructure/go-shuffle
 
-go 1.19
+go 1.18
